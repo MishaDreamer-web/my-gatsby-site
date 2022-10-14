@@ -1,5 +1,4 @@
 import * as React from 'react';
-import { Link } from 'gatsby';
 
 import Greeting from '../components/Header/Header';
 import Layout from '../components/Layout/Layout';
