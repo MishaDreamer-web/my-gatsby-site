@@ -1,6 +1,5 @@
 import * as React from 'react';
 
-import Greeting from '../components/Header/Header';
 import Layout from '../components/Layout/Layout';
 import Seo from '../components/Seo/Seo';
 
@@ -13,7 +12,6 @@ const AboutPage = () => {
           Gatsby.
         </p>
       </Layout>
-      <Greeting name="Megan" />
     </main>
   );
 };
